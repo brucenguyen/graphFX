@@ -23,4 +23,5 @@ If you appreciate my project or want to give me some pointers, send an email
 to: bruce.nguyen@uwaterloo.ca
 
 
-Thanks for checking out GraphFX.
+Thanks for checking out GraphFX. 
+Special thanks to exp4j.
